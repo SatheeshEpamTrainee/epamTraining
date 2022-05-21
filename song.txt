@@ -5,10 +5,3 @@ singing song
 come come on me
 saw you 
 
-git staging
-git commit demo\
-
-hello this is new
-
-pushing to the repository
----------------------------

@@ -2,9 +2,3 @@ Hello world
 sing a song
 
 git staging
-
-
-pushing to the repository
-hello git branching
-second commit to the feature
----------------------------
